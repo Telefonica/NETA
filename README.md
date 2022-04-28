@@ -21,7 +21,7 @@ The goal of NETA is to generate a micro-segmentation advertisement strategy for 
     - A weighted combination of the above. 
 
 
-![imgs](./assets/NETA.png)
+![imgs](./assets/NETA-SystemModel.png)
 
 
 ## Overview
