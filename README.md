@@ -1,6 +1,8 @@
+
+
+
+<p align="center"> <img width="460" height="300" src="![imgs](./assets/NETA.png)"> </p>
 # NETA - Smart contracts for creating customized advertisements on Movistar plus TV
-
-
 ## Goal
 
 The goal of NETA is to generate a micro-segmentation advertisement strategy for Movistar Plus TV, like advertisement works on the Internet.
@@ -56,9 +58,9 @@ WIP
 
 
 ## Authors
-Unai Gil Zubeldia
-Daniel Garcia Sanchez
-Juan Carlos Diaz Torres
-David Martin Lambas
-Alejandro Molina Sanchez
-Carlos Arenas Escribano
+* Unai Gil Zubeldia
+* Daniel Garcia Sanchez
+* Juan Carlos Diaz Torres
+* David Martin Lambas
+* Alejandro Molina Sanchez
+* Carlos Arenas Escribano
