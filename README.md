@@ -1,7 +1,7 @@
+<p align="center">
+  <img src="./assets/NETA-Logo.png" />
+</p>
 
-
-
-<p align="center"> <img width="460" height="300" src="![imgs](./assets/NETA.png)"> </p>
 # NETA - Smart contracts for creating customized advertisements on Movistar plus TV
 ## Goal
 
