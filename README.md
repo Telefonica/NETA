@@ -26,7 +26,7 @@ The goal of NETA is to generate a micro-segmentation advertisement strategy for 
 
 ## Overview
 
-![imgs](./assets/data_model.png)
+![classes](./assets/price_diagram.png)
 
 ## Features
 
@@ -37,7 +37,7 @@ The goal of NETA is to generate a micro-segmentation advertisement strategy for 
 
 ## Class diagram
 
-![classes](./assets/price_diagram.png)
+![imgs](./assets/data_model.png)
 
 **Note:** In the diagram the contract Item has two grantPermission functions. However, due to issues from Truffle with function overloading ([ref](https://github.com/trufflesuite/truffle/issues/737)) in the code the Item contract the function *grantPermision(to, amount)* is called *commitPermission(to, amount)*.
 
